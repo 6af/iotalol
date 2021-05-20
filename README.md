@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**iotalol/iotalol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Nothing 🤣
 - 🌱 I’m currently learning Python
 - 👯 two dancers idk ?
